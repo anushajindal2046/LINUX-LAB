@@ -17,4 +17,4 @@ Use the touch command to create sets of empty practice files to use during this 
 
 
 ### 3️⃣  **Output**
-![image alt](Output.png)
+![image alt](output.png)
