@@ -8,9 +8,9 @@ Use the touch command to create sets of empty practice files to use during this 
 ### 1️⃣ **Create the files**  
 •	touch Command: The touch command is used to create empty files.
 
-![image alt](https://github.com/anushajindal2046/LINUX-LAB/blob/main/lab1-1.png)
+![image alt](https://github.com/anushajindal2046/LINUX-LAB/blob/main/Lab1/lab1-1.png)
 
 ### 2️⃣ **Create the subdirectories**  
 •	mkdir Command: The mkdir command is used to create directories 
 
-![image alt](https://github.com/anushajindal2046/LINUX-LAB/blob/main/lab1-2.png)
+![image alt](https://github.com/anushajindal2046/LINUX-LAB/blob/main/Lab1/lab1-2.png)
