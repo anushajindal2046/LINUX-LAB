@@ -13,4 +13,4 @@ Use the touch command to create sets of empty practice files to use during this 
 ### 2️⃣ **Create the subdirectories**  
 •	mkdir Command: The mkdir command is used to create directories 
 
-![image alt](https://github.com/anushajindal2046/LINUX-LAB/blob/main/Lab1/lab1-2.png)
+![image alt](lab1-2.png)
