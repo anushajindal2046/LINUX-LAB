@@ -14,3 +14,7 @@ Use the touch command to create sets of empty practice files to use during this 
 •	mkdir Command: The mkdir command is used to create directories 
 
 ![image alt](lab1-2.png)
+
+
+### 3️⃣  **Output**
+![image alt](Output.png)
